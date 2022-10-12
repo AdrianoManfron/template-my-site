@@ -1,0 +1,577 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Manfron v1.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-09-23 20:12-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Manfron "
+"<adriano@manfron.com."
+"br>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"Unfortunately, the page "
+"you tried to readh does "
+"not exist on this site."
+msgstr ""
+
+#: 404.php:13
+msgid "Latest Posts"
+msgstr ""
+
+#: archive.php:18
+#: parts/content.php:5
+#: single.php:14
+msgid "Posted in"
+msgstr ""
+
+#: archive.php:18
+#: page-home.php:269
+#: parts/content.php:5
+#: single.php:14
+msgid "by"
+msgstr ""
+
+#: archive.php:19
+#: page-home.php:270
+#: parts/content.php:6
+msgid "Categories"
+msgstr ""
+
+#: archive.php:20
+#: page-home.php:271
+#: parts/content.php:7
+msgid "Tags"
+msgstr ""
+
+#: archive.php:28
+#: general-template.php:24
+#: index.php:18
+#: page-home.php:281
+msgid ""
+"Nothing yet to be "
+"displayed!"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid ""
+"One thought on &ldquo;"
+"%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid ""
+"%1$s thought on &ldquo;"
+"%2$s&rdquo;"
+msgid_plural ""
+"%1$s thoughts on &ldquo;"
+"%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:71
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: footer.php:15
+msgctxt ""
+"copyright date format"
+msgid "Y"
+msgstr ""
+
+#: footer.php:16
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:16
+msgid "Developed by"
+msgstr ""
+
+#: functions.php:23
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:24
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:59
+msgid ""
+"This is the Blog "
+"Sidebar. You can add "
+"your widgets here."
+msgstr ""
+
+#: functions.php:69
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:71
+msgid ""
+"This is the Social links "
+"on the menu. You can add "
+"your widgets here."
+msgstr ""
+
+#: functions.php:81
+msgid "About Me"
+msgstr ""
+
+#: functions.php:83
+msgid ""
+"Description About Me "
+"Area."
+msgstr ""
+
+#: functions.php:91
+msgid "About Me Right 1"
+msgstr ""
+
+#: functions.php:93
+msgid ""
+"Description About Me "
+"Projects Area."
+msgstr ""
+
+#: functions.php:101
+msgid "About Me Right 2"
+msgstr ""
+
+#: functions.php:103
+msgid ""
+"Description About Me "
+"Freelancer Area."
+msgstr ""
+
+#: functions.php:114
+msgid "Service 1"
+msgstr ""
+
+#: functions.php:116
+msgid "First Service Area."
+msgstr ""
+
+#: functions.php:124
+msgid "Service 2"
+msgstr ""
+
+#: functions.php:126
+msgid ""
+"Second Service Area."
+msgstr ""
+
+#: functions.php:134
+msgid "Service 3"
+msgstr ""
+
+#: functions.php:136
+msgid "Third Service Area."
+msgstr ""
+
+#: functions.php:144
+msgid "Service 4"
+msgstr ""
+
+#: functions.php:146
+msgid ""
+"Fourth Service Area."
+msgstr ""
+
+#: functions.php:154
+msgid "Service 5"
+msgstr ""
+
+#: functions.php:156
+msgid "Fifth Service Area."
+msgstr ""
+
+#: functions.php:164
+msgid "Service 6"
+msgstr ""
+
+#: functions.php:166
+msgid "Sixth Service Area."
+msgstr ""
+
+#: functions.php:174
+msgid "Service 7"
+msgstr ""
+
+#: functions.php:176
+msgid ""
+"Seventh Service Area."
+msgstr ""
+
+#: functions.php:184
+msgid "Service 8"
+msgstr ""
+
+#: functions.php:186
+msgid ""
+"Eighth Service Area."
+msgstr ""
+
+#: functions.php:198
+msgid "Project 1"
+msgstr ""
+
+#: functions.php:200
+msgid ""
+"First Project Area. "
+"Maximum supported image "
+"size 300px."
+msgstr ""
+
+#: functions.php:208
+msgid "Project 2"
+msgstr ""
+
+#: functions.php:210
+msgid ""
+"Second Project Area. "
+"Maximum supported image "
+"size 300px."
+msgstr ""
+
+#: functions.php:218
+msgid "Project 3"
+msgstr ""
+
+#: functions.php:220
+msgid ""
+"Third Project Area. "
+"Maximum supported image "
+"size 300px."
+msgstr ""
+
+#: functions.php:228
+msgid "Project 4"
+msgstr ""
+
+#: functions.php:230
+msgid ""
+"Fourth Project Area. "
+"Maximum supported image "
+"size 300px."
+msgstr ""
+
+#: functions.php:242
+msgid "skill 1"
+msgstr ""
+
+#: functions.php:244
+msgid ""
+"First Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:252
+msgid "skill 2"
+msgstr ""
+
+#: functions.php:254
+msgid ""
+"Second Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:262
+msgid "skill 3"
+msgstr ""
+
+#: functions.php:264
+msgid ""
+"Third Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:272
+msgid "skill 4"
+msgstr ""
+
+#: functions.php:274
+msgid ""
+"Fourth Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:282
+msgid "skill 5"
+msgstr ""
+
+#: functions.php:284
+msgid ""
+"Fifth Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:292
+msgid "skill 6"
+msgstr ""
+
+#: functions.php:294
+msgid ""
+"Sixth Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:302
+msgid "skill 7"
+msgstr ""
+
+#: functions.php:304
+msgid ""
+"Seventh Skills Area. "
+"Maximum supported image "
+"size 64px."
+msgstr ""
+
+#: functions.php:316
+#: page-home.php:287
+msgid "contact"
+msgstr ""
+
+#: functions.php:318
+msgid ""
+"Put a shortcode widget "
+"here and paste the code "
+"to show the contact "
+"form. Example: 7 Contact "
+"or WPForm."
+msgstr ""
+
+#: functions.php:328
+msgid "Social Links Footer"
+msgstr ""
+
+#: functions.php:330
+msgid ""
+"This is the Social links "
+"on the footer. You can "
+"add your widgets here."
+msgstr ""
+
+#: inc/customizer.php:8
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid ""
+"Please, add some first "
+"subtitle"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Hero First Subtitle"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid ""
+"Please, type your first "
+"subtitle here"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid ""
+"Please, add some title"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Hero Title"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid ""
+"Please, type your title "
+"here"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid ""
+"Please, add some subtitle"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Hero Subtitle"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid ""
+"Please, type your "
+"subtitle here"
+msgstr ""
+
+#: inc/customizer.php:77
+#: page-home.php:58
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Hero button text"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid ""
+"Please, type your hero "
+"button text here"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Hero button link"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid ""
+"Please, type your hero "
+"button link here"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Hero height"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid ""
+"Please, type your hero "
+"height here"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Hero Image"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Posts per page"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid ""
+"How many items to "
+"display in the post list?"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid ""
+"Post categories to "
+"include"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid ""
+"Comma separated values "
+"or single category ID"
+msgstr ""
+
+#: index.php:8
+msgid "Blog"
+msgstr ""
+
+#: page-home.php:55
+msgid ""
+"Please, type some first "
+"subtitle"
+msgstr ""
+
+#: page-home.php:56
+msgid ""
+"Please, type some title"
+msgstr ""
+
+#: page-home.php:57
+msgid ""
+"Please, type some "
+"subtitle"
+msgstr ""
+
+#: page-home.php:81
+msgid "about_me"
+msgstr ""
+
+#: page-home.php:110
+msgid "Services"
+msgstr ""
+
+#: page-home.php:172
+msgid "projects"
+msgstr ""
+
+#: page-home.php:206
+msgid "skills"
+msgstr ""
+
+#: page-home.php:247
+msgid "Latest News"
+msgstr ""
+
+#: single.php:15
+msgid "Categories:"
+msgstr ""
+
+#: single.php:16
+msgid "Tags:"
+msgstr ""

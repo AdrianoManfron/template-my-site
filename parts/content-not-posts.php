@@ -1,0 +1,1 @@
+<p><?php esc_html_e( 'Nothing yet to be displayed!', 'manfron' ); ?></p>

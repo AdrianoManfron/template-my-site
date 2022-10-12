@@ -1,0 +1,1 @@
+<?php wp_nav_menu( array( 'theme_location' => 'manfron_footer_menu', 'depth' => 1 ) ); ?>
